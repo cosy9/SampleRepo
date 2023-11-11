@@ -141,9 +141,9 @@ class Magento {
         break;
       }
       case StatusCode.Unauthorized: {
-        // Handle Unauthorized
+         // Handle Unauthorized
         localStorage.clear();
-        store.dispatch(openModal())
+        window.location.href = "/login"; // any url window.location.replace('https://codefrontend.com');
         break;
       }
       case StatusCode.TooManyRequests: {
