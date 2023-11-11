@@ -7,3 +7,17 @@ https://thuannp.com/react-communication-with-iframe/
 
 
 // iframe reverse commnication
+
+
+
+https://www.npmjs.com/package/capture-website
+//image capture
+
+
+https://www.npmjs.com/package/html-to-image
+//image capture of certain div element
+
+
+
+https://www.npmjs.com/package/react-native-image-colors#web
+//image color detector to detect certain color.
