@@ -21,3 +21,12 @@ https://www.npmjs.com/package/html-to-image
 
 https://www.npmjs.com/package/react-native-image-colors#web
 //image color detector to detect certain color.
+
+
+
+
+
+
+https://gist.github.com/bradtraversy/b8b72581ddc940e0a41e0bc09172d91b
+
+deployment url nginx
