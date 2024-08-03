@@ -174,7 +174,8 @@ const rootReducer = combineReducers({
   modal: modalSlice,
   userLocationInfo: userLocationInfoSlice,
   offerPageLayout: offerPageLayoutSlice,
-  addToCart: addTocartSlice,
+  addToCart: addTocartSlice, 
+  abc: addTocartSlice, 
 });
 const persistedReducer = persistReducer(persistConfig, rootReducer);
 export const store = configureStore({
